@@ -1,0 +1,49 @@
+[
+  {
+    "CustomerTypeId": 1,
+    "CustomterTypeName": "VIP",
+    "Customers": [
+      {
+        "Id": "Cus123",
+        "Name": "Obama",
+        "Email": "obama@gmail.com",
+        "Age": 67,
+        "Image": "https://i.pinimg.com/236x/66/d3/b7/66d3b7891df6e729eb2d410c7861dda6.jpg"
+      },
+      {
+        "Id": "Cus456",
+        "Name": "Kim jong Un",
+        "Email": "unun@gmail.com",
+        "Age": 38,
+        "Image": "https://i.pinimg.com/1200x/de/67/e6/de67e6d43d08e0c82badd33a66b3e16b.jpg"
+      },
+      {
+        "Id": "Cus789",
+        "Name": "Putin",
+        "Email": "putin@gmail.com",
+        "Age": 77,
+        "Image": "https://i.pinimg.com/736x/4a/94/48/4a944815917cfe501998036c9fda9aab.jpg"
+      }
+    ]
+  },
+  {
+    "CustomerTypeId": 2,
+    "CustomterTypeName": "Normal",
+    "Customers": [
+      {
+        "Id": "Cus000",
+        "Name": "Hồ Cẩm Đào",
+        "Email": "hodao@gmail.com",
+        "Age": 16,
+        "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuohGD4uiJ2CQ-ar-wMNjQI-tTErZ5tHZsPM6dFo3ONVZaXe4PDN71le21&s=10"
+      },
+      {
+        "Id": "Cus111",
+        "Name": "Tap Can Binh",
+        "Email": "binhbinh@gmail.com",
+        "Age": 67,
+        "Image": "https://i.pinimg.com/736x/1e/96/68/1e9668ce4216434d792ddcf527bd3a22.jpg"
+      }
+    ]
+  }
+]
