@@ -1,0 +1,42 @@
+.customer-page {
+  max-width: 760px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+h2 {
+  margin-bottom: 16px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #aaa;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background: #f1f1f1;
+}
+
+.group-row td {
+  padding: 4px 8px;
+  background: #e7e7e7;
+  font-weight: 600;
+}
+
+img {
+  display: block;
+  width: 100px;
+  height: 85px;
+  object-fit: cover;
+}
+
+.error {
+  color: #b42318;
+}
